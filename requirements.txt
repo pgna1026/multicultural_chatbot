@@ -1,0 +1,15 @@
+openai==이거 버전 낮춤
+python-decouple
+pyttsx3
+SpeechRecognition
+scikit-learn
+pyaudio
+torch==이것도 버전 낮춤'
+
+
+openai==0.27.8
+python-decouple
+pyttsx3
+SpeechRecognition
+scikit-learn
+torch==2.0.1
